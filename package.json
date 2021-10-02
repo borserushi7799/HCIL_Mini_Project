@@ -1,0 +1,22 @@
+{
+  "name": "hcil_mini_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cpt-Levi/HCIL_Mini_Project.git"
+  },
+  "author": "Swapnil Chhatre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cpt-Levi/HCIL_Mini_Project/issues"
+  },
+  "homepage": "https://github.com/cpt-Levi/HCIL_Mini_Project#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
